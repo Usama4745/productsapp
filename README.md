@@ -1,3 +1,9 @@
+instructions
+run npm install
+cd client and run 'npm install' again
+move to main folder and run 'npm run dev'
+both server and client will be start concurrently
+
 Products Grid
 ====
 
